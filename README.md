@@ -67,7 +67,7 @@
  <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=SamithLk&show_icons=true&theme=radical" alt="GitHub Stats" />
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamithLk&theme=radical" alt="GitHub Streak" />
-   <img src="https://github-readme-stats.vercel.app/api?username=SamithLky&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
+   <img src="https://github-readme-stats.vercel.app/api?username=SamithLk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamithLk&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
  </div>
  
