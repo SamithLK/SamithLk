@@ -14,7 +14,6 @@
    <img src="https://komarev.com/ghpvc/?username=SamithLk&color=3ABFEF&style=flat-square&label=Profile+Views" alt="Profile Views" />
  </div>
  
- ## 💫 About Me
  ## 👨‍💻 About Me
  
  ```javascript
@@ -63,7 +62,6 @@
  
  </div>
  
- ## 📊 GitHub Statistics
  ## 📊 GitHub Analytics
  
  <div align="center">
@@ -71,11 +69,6 @@
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamithLk&theme=radical" alt="GitHub Streak" />
    <img src="https://github-readme-stats.vercel.app/api?username=SamithLky&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamithLk&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
- </div>
- 
- ## 🤝 Let's Connect!
- <div align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamithLk&theme=tokyonight&hide_border=true&background=1A1B27&stroke=3ABFEF&ring=3ABFEF&fire=FF9900" height="200" />
  </div>
  
  ## 🤝 Connect & Collaborate
